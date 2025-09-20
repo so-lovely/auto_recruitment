@@ -6,7 +6,7 @@
 6. python3 wanted.py
 
 ## 현재 원티드 자동화 했으며 여러 채용사이트를 추가예정입니당
-[사용설명영상](https://youtu.be/bLrIhKnNVn8)
+[사용설명유튜브영상 클릭](https://youtu.be/bLrIhKnNVn8)
 
 
 ## 기여는 환영입니당
